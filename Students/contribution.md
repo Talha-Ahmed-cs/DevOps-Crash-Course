@@ -857,3 +857,8 @@ for i in future:
 Thank you Saim Safdar for the excellent course content for DevOps it has given me a great opportunity to understand how DevOps methadologies is helping different organizations deliver applications and services at high velocity. 
 
 
+
+Talha Ahmed:
+blogs:
+1. https://medium.com/@i190713/what-is-virtualization-cbdc33fb4879
+2. https://medium.com/@i190713/a-beginners-guide-to-k3s-lightweight-kubernetes-for-modern-devops-f809c36a4318
